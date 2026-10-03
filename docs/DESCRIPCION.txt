@@ -1,0 +1,8 @@
+TEXTO CORTO PARA LA DESCRIPCION DEL REPO (GitHub -> About -> Description):
+
+App Android VPN estilo HTTP Injector (SSH/Payload/WebSocket) con panel admin propio, archivos .ghv cifrados atados a dispositivo, vencimiento por cliente y AdMob. Kotlin + FastAPI.
+
+TOPICS/ETIQUETAS PARA EL REPO:
+android, vpn, kotlin, http-injector, ssh, websocket, fastapi, admob, tunnel
+
+WEBSITE (si tenes dominio, sino dejalo vacio)

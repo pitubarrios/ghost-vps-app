@@ -1,0 +1,20 @@
+COMO USAR ESTE PAQUETE:
+
+1. Pegá 3-6 capturas de tu app en la carpeta "screenshots"
+   (renombralas: 01-home.png, 02-conectado.png, 03-perfiles.png,
+    o cambia los nombres en el README.md)
+
+2. En GitHub creá un NUEVO repositorio PUBLICO llamado ghost-vpn-app
+   (distinto del repo privado con el codigo)
+
+3. Subi estos archivos con la web de GitHub:
+   - Entrá al repo -> "Add file" -> "Upload files"
+   - Arrastrá TODO el contenido de esta carpeta
+   - Commit
+
+4. En "About" (engranaje, arriba a la derecha del repo):
+   - Pegá la descripcion corta de docs/DESCRIPCION.txt
+   - Agregá los topics
+   - Guardar
+
+Listo: cualquiera que entre ve tu proyecto, pero NO hay codigo fuente.
